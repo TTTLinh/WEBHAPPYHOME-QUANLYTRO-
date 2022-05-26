@@ -1,0 +1,98 @@
+a {
+  color: inherit!important;
+}
+
+a i {
+  color: gray !important;
+}
+
+.menu a {
+  color:#16a085!important;
+}
+
+.menu .nav-link{
+ padding-right: 0px!important;
+}
+
+img{
+  width: 100%;
+}
+
+.main {
+  background-image: url(images/1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 500px;
+}
+
+.main i {
+  color: #f1c40f!important;
+}
+
+.main .jumbotron, .second .jumbotron, .six .jumbotron{
+  background-color: transparent!important;
+}
+
+.text {
+  background-color: rgba(44, 62, 80, 0.8);
+  color: white;
+}
+
+.main .text{
+  width: 50%;
+  border: 1px solid #7f8c8d;
+}
+
+.modal{
+  color:gray!important;
+}
+
+.third .col-lg-3 {
+  margin-top: -30px;
+  padding-right: 0!important;
+ padding-left: 0 !important;
+}
+
+.third img{
+  opacity: 0.7;
+}
+
+.local {
+  background-image: url(images/8.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 500px;
+}
+
+.local2 {
+  background-image: url(images/9.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 500px;
+}
+
+.four.jumbotron{
+padding: 0!important
+}
+
+.four .text1{
+  padding: 3%;
+}
+
+.subsribe{
+  background-position: cover;
+  min-height: 300px;
+  min-width: 900px;
+  background-repeat: no-repeat;
+  color: black;
+}
+
+.subsribe button{
+  background-color: #efb50b;
+  color: white;
+}
+
+.subsribe .input-group.mb-3{
+  width:50%;
+
+}
